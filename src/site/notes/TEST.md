@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/test/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/test/"}
 ---
 
 Прикооооол и че
