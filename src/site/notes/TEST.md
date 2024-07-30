@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/test/"}
+{"dg-publish":true,"permalink":"/test/","dgPassFrontmatter":true}
 ---
 
 Прикооооол и че
