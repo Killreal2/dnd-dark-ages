@@ -307,13 +307,13 @@ ul.task-list {
     top: 0px;
     left: 0;
     position: fixed;
-    height: 100%;
+    height: 90%;
     background-color: var(--background-secondary);
     color: var(--text-muted);
     overflow-y: auto;
     width: 190px;
     h1 {
-        font-size: 24px !important;
+        font-size: 20px !important;
     }
     @media (max-width: 800px) {
         h1 {
