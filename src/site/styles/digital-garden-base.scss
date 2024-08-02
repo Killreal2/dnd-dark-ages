@@ -69,14 +69,14 @@ ul.task-list {
     min-width: 25px;
     display: flex;
     z-index: 3;
-    max-width: 150px;
+    max-width: 350px;
 
     .graph {
-        width: 120px;
+        width: 350px;
         min-height: 320px;
 
         #link-graph {
-            width: 120px;
+            width: 350px;
             height: 320px;
         }
 
@@ -91,7 +91,7 @@ ul.task-list {
         height: calc(100vmin - 100px);
         width: calc(100vmin - 100px);
         min-height: 350px;
-        min-width: 150px;
+        min-width: 350px;
         transform: translate(-50%, -50%);
         z-index: 9999;
         display: block;
@@ -269,7 +269,7 @@ ul.task-list {
         transform: none;
         border-radius: 4px;
         margin-top: 50px;
-        max-width: 700px;
+        max-width: 400px;
         margin: auto;
         border-radius: 0;
         border-top: 2px solid var(--background-secondary);
