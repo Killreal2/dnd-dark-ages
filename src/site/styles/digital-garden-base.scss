@@ -69,14 +69,14 @@ ul.task-list {
     min-width: 25px;
     display: flex;
     z-index: 3;
-    max-width: 350px;
+    max-width: 250px;
 
     .graph {
-        width: 350px;
+        width: 250px;
         min-height: 320px;
 
         #link-graph {
-            width: 350px;
+            width: 250px;
             height: 320px;
         }
 
