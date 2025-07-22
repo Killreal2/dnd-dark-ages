@@ -18,7 +18,7 @@ img {
 }
 
 .content {
-    max-width: 1100px;
+    max-width: 700px;
     margin: auto;
     font-size: 18px;
     line-height: 1.5;
@@ -69,14 +69,14 @@ ul.task-list {
     min-width: 25px;
     display: flex;
     z-index: 3;
-    max-width: 200px;
+    max-width: 350px;
 
     .graph {
-        width: 200px;
+        width: 320px;
         min-height: 320px;
 
         #link-graph {
-            width: 200px;
+            width: 320px;
             height: 320px;
         }
 
@@ -311,9 +311,9 @@ ul.task-list {
     background-color: var(--background-secondary);
     color: var(--text-muted);
     overflow-y: auto;
-    width: 190px;
+    width: 250px;
     h1 {
-        font-size: 20px !important;
+        font-size: 32px !important;
     }
     @media (max-width: 800px) {
         h1 {
