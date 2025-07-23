@@ -213,11 +213,4 @@ p > code {
 .callout.is-collapsed .callout-fold .svg-icon {
     transform: rotate(-90deg);
 }
- .svg-container {
-  overflow: hidden;
-  width: 100%;
-  height: 600px; /* Фиксированная высота или по необходимости */
-  border: 1px solid #ddd; /* Опционально */
-  touch-action: none; /* Для корректной работы на мобильных устройствах */
-}
 }
