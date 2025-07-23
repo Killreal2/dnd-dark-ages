@@ -38,7 +38,7 @@ img {
 }
 
 .markdown-preview-view pre.mermaid {
-    background: white;
+    background: rgb(248, 242, 235);
     border-radius: 25px;
     padding: 10px;
 }
@@ -897,8 +897,8 @@ div.dataview-error-box {
 }
  
  :root {
-    --background-primary: rgb(32, 31, 31);
-    --background-secondary: rgb(57, 56, 56);
+    --background-primary: rgb(248, 242, 235);
+    --background-secondary: rgb(248, 242, 235);
     --text-normal: #dcddde;
     --text-accent: rgb(97, 186, 245);
     --file-margins: 32px;
