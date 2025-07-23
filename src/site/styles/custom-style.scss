@@ -944,13 +944,13 @@ button {
 }
 
 .theme-dark {
-    background: rgb(248, 242, 235);
+    background: rgb(248, 242, 235) !important;
     color: var(--text-normal);
     font-family: var(--font-default);
 }
 
 .theme-light {
-    background: rgb(248, 242, 235);
+    background: rgb(248, 242, 235) !important;
     color: black;
     font-family: var(--font-default);
 }
